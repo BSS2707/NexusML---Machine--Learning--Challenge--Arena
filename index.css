@@ -1060,3 +1060,9 @@ footer {
   color: var(--text-muted);
   font-size: 0.9rem;
 }
+
+footer a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-weight: 500;
+}
